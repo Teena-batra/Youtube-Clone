@@ -1,3 +1,3 @@
 # Youtube-Clone 
 
-It ia s backend project.
+It is a backend project.
